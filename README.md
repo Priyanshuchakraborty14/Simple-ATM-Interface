@@ -12,8 +12,5 @@ A basic C++ console application that simulates ATM operations like:
 - Withdraw money
 - Exit system
 
-## Project Purpose
-This is a beginner-friendly project developed to practice conditional statements, loops, and basic C++ concepts.
-
 ## Author
 Priyanshu Chakraborty
